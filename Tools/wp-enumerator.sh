@@ -7,9 +7,9 @@
 # Format to grep: "slug": "grep",
 
 results_tmp='/tmp/enumerador_slugs_wp'
-output='./slugs.txt.mestrado'
-site='http://mestrado.iesb.br/wp-json/wp/v2/users/' # <-- Change the URL
-n=1000                                              # <-- The first N users
+output='./slugs.txt'
+site='http://site.com/wp-json/wp/v2/users/' # <-- Change the URL
+n=1000                                      # <-- The first N users
 
 print_progress() {
     local progress=$1
