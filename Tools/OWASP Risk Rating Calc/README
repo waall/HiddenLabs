@@ -1,0 +1,16 @@
+A OWASP Risk Rating é uma metodologia utilizada para avaliar e classificar o risco associado a vulnerabilidades de segurança em um sistema ou aplicativo.
+
+A metodologia de classificação de risco da OWASP considera três fatores principais:
+
+Probabilidade de ocorrência: Avalia a probabilidade de uma vulnerabilidade ser explorada com sucesso por um atacante. Leva em consideração fatores como a facilidade de exploração, a disponibilidade de ferramentas e conhecimentos técnicos necessários.
+
+Impacto técnico: Mede o impacto direto que uma vulnerabilidade explorada pode ter em um sistema. Isso inclui fatores como acesso não autorizado, corrupção de dados, negação de serviço, entre outros.
+
+Impacto de negócios: Avalia o impacto indireto que uma vulnerabilidade explorada pode ter no negócio ou organização em termos de perda financeira, danos à reputação, violação de conformidade, entre outros.
+
+Com base nesses três fatores, a OWASP Risk Rating classifica as vulnerabilidades em três níveis de risco:
+
+Baixo risco: Vulnerabilidades que têm baixa probabilidade de exploração e/ou têm um impacto técnico e de negócios limitado.
+Médio risco: Vulnerabilidades que têm uma probabilidade moderada de exploração e/ou têm um impacto técnico e de negócios significativo.
+Alto risco: Vulnerabilidades que têm alta probabilidade de exploração e/ou têm um impacto técnico e de negócios crítico.
+Essa classificação de risco auxilia os profissionais de segurança a priorizarem suas ações, concentrando-se nas vulnerabilidades de alto risco que requerem atenção imediata, e também ajuda a comunicar os riscos aos stakeholders de forma clara e compreensível.
